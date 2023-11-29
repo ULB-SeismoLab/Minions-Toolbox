@@ -14,6 +14,8 @@ This repository contains multiple useful tools developed for the data from Smart
 
 **approx_positioning.ipynb** : uses to extract satellite data from LogFile and reassignated an approximative location (median point).  
 
+**response.ipynb** : uses to remove automatically the instrument response from minions' data
+
 ## Python codes (PyMod) :
  
 **LogExtract.py** : Python module to extract data from SmartSolo LogFiles
