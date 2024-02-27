@@ -1,0 +1,237 @@
+# HV LOG FORMAT RELEASE 1.0
+#
+# BEGIN COMMAND LINE ARGUMENTS
+#
+D:/Documents/ULB/Science_de_lenvironnement-Master2/Memoire/geopsypack-win64-3.4.2/bin/geopsy.exe  $*
+exit $?
+#
+# END COMMAND LINE ARGUMENTS
+#
+#
+# BEGIN SOFTWARE VERSION
+#
+  Qt                  5.12.3
+  QGpCoreTools        2.4.2 from 3.4.2
+      (commit 33d7a93616e30a3d511fa67ad3f5da9da1a4aac6)
+  QGpCoreMath         1.4.2 from 3.4.2
+      (commit 306e3c199829ace6cbde6b242503355428580d05)
+  GeopsyCore          4.4.2 from 3.4.2
+      (commit 583bacf54d7367d6c29796a28c8179b98d88e28a)
+  QGpGuiTools         2.4.2 from 3.4.2
+      (commit 478ff49d6d6ec28d92b21ec9bfcef9f5d343b065)
+  SciFigs             3.3.2 from 3.4.2
+      (commit cec1d051784e8ee1d9774230fb96c1bb0b618aa0)
+  QGpGuiMath          1.3.1 from 3.4.2
+      (commit 8e80e068f4f3b16a30e8fb8dff21177f25a58da6)
+  GeopsyGui           3.4.1 from 3.4.2
+      (commit 905aba82a1928b07b3fd61dec384b9448698c80b)
+  GeopsySLink         2.0.3 from 3.4.2
+      (commit 2f01f562d775a4ddcdfc6a3b388c2ecb0cbb3a9a)
+  GeopsySLinkGui      2.0.2 from 3.4.2
+      (commit f6e61f2761b9ab1fa13c821e2a94732db60abf4f)
+  geopsy              3.3.3 from 3.4.2
+      (commit fb3d54b85a28e6ba741794e0cb6666d0b25c0167)
+  campbelltob3        1.0.1 from 3.4.2
+      (commit 6e12f8024f0a052e430878492367702311588147)
+  DinverCore          1.3.1 from 3.4.2
+      (commit 7a17c1522ca1f626c89f2c1e87759f6b4a9311d4)
+  QGpCoreWave         2.2.0 from 3.4.2
+      (commit 18e08f9fd358a9e504047ec288ca4ab71a7c9851)
+  QGpCompatibility    1.1.2 from 3.4.2
+      (commit 3e05f6333687b574d4a18fb4336decd9efbe3efa)
+  DinverDCCore        2.2.0 from 3.4.2
+      (commit 654cab13b392853128bb5fa90891ecf10b5c3f0c)
+  QGpCoreStat         1.2.2 from 3.4.2
+      (commit 4ed49581fb9dfbf824223fae61af336330486596)
+  ArrayCore           4.1.2 from 3.4.2
+      (commit 85e1ce3b5a43ddb8cc16df7c31094c7c98a82104)
+  QGpGuiWave          1.2.1 from 3.4.2
+      (commit 2889d6a23de9671c33c0ae088b33e537035df26f)
+  ArrayGui            1.3.0 from 3.4.2
+      (commit bb09428d0df9ad7ab7996d50f8ac067b450a9bec)
+  geopsyarray         3.2.4 from 3.4.2
+      (commit 243028ab672fff396c683ed677c1dd4a1cc6a99b)
+  geopsydamping       2.1.3 from 3.4.2
+      (commit 2be6cba7701efb6e8c1a20c940cffe08f04ffcd2)
+  HVCore              1.1.2 from 3.4.2
+      (commit a76eb646e633a11fe6b411d1112c55e3c9107de4)
+  HVGui               1.1.0 from 3.4.2
+      (commit a66df7fe63f6c9107cfffcd4fa86d4f9893fec16)
+  geopsyhv            4.0.2 from 3.4.2
+      (commit ecd96a31c8abadf86bcbae0dd02bb37935b26dc7)
+  geopsynr            1.1.1 from 3.4.2
+      (commit f149a70197f8622e594ecec09f55068ecabcfc33)
+  geopsyptmotion      2.0.3 from 3.4.2
+      (commit c82034566f860b11afdc973ca84ef0027af6cf95)
+  geopsyrefra         2.0.2 from 3.4.2
+      (commit 807393bf66c9762a914de2cbc8c43813d8ae4227)
+  geopsytfa           2.1.1 from 3.4.2
+      (commit b87f1cb860bedfd6fb8d0439e749dd7464b26a24)
+  hvtfa               2.1.3 from 3.4.2
+      (commit fa8612a089e30f0bd72192724ee1ebe5fb4080b5)
+  matfiles            1.0.3 from 3.4.2
+      (commit aa4bbdecc6f645ece0598270993e17766e4c7b32)
+  phaseit             1.0.2 from 3.4.2
+      (commit 266b229edcf7986948d6d3f3940a154229b45f91)
+#
+# END SOFTWARE VERSION
+#
+#
+# BEGIN SIGNAL LIST
+#
+DATA_BASE=D:/Documents/ULB/Science_de_lenvironnement-Master2/Memoire/FieldworkChaumontG/Transect_1_HVSR/TRANSECT1.gpy
+[COMP 0]
+ [SIG 0] D:/Documents/ULB/Science_de_lenvironnement-Master2/Memoire/FieldworkChaumontG/chaumont/453004465..0.0001.2023.11.10.11.11.00.000.Z.miniseed at index 0 (ID=30)
+[COMP 1]
+ [SIG 0] D:/Documents/ULB/Science_de_lenvironnement-Master2/Memoire/FieldworkChaumontG/chaumont/453004465..0.0001.2023.11.10.11.11.00.000.N.miniseed at index 0 (ID=29)
+[COMP 2]
+ [SIG 0] D:/Documents/ULB/Science_de_lenvironnement-Master2/Memoire/FieldworkChaumontG/chaumont/453004465..0.0001.2023.11.10.11.11.00.000.E.miniseed at index 0 (ID=28)
+#
+# END SIGNAL LIST
+#
+#
+# BEGIN PARAMETERS
+#
+# Version 0: all files generated with releases before 20170901 (default for input)
+PARAMETERS_VERSION=1
+# TYPEs:
+#   - Signal: from the start or to the end of signal (TEXT are useless)
+#   - Delta: a fixed duration counted from the start or the end (e.g. TEXT=1h).
+#   - Pick: from or to a time pick (TEXT=time pick name).
+#   - Absolute: from or to a fixed time (e.g. TEXT=20170314115338.00)
+FROM_TIME_TYPE=Signal
+FROM_TIME_TEXT=0s
+# TYPEs: Signal, Delta, Absolute
+TO_TIME_TYPE=Signal
+TO_TIME_TEXT=0s
+REFERENCE=
+COMMON_TIME_WINDOWS=false
+# TYPEs: Exactly, AtLeast, FrequencyDependent
+WINDOW_LENGTH_TYPE=Exactly
+WINDOW_MIN_LENGTH(s)=60
+WINDOW_MAX_LENGTH(s)=60
+WINDOW_MAX_COUNT=0
+# Length of time windows are adjusted to avoid a prime number of samples which
+# slows down the FFT computation. Usually a maximum prime 11 in the prime factorization
+# of the number of samples is a good compromise between the speed and the lenght inaccuracy
+# Leave as zero to allow any prime number factorization.
+WINDOW_MAXIMUM_PRIME_FACTOR=11
+BAD_SAMPLE_TOLERANCE (s)=0
+BAD_SAMPLE_GAP (s)=0
+WINDOW_OVERLAP (%)=5
+# TYPEs: NoSampleThreshold, RelativeSampleThreshold, AbsoluteSampleThreshold
+BAD_SAMPLE_THRESHOLD_TYPE=RelativeSampleThreshold
+BAD_SAMPLE_THRESHOLD_VALUE (%)=0.4
+ANTI-TRIGGERING_ON_RAW_SIGNAL (y/n)=n
+ANTI-TRIGGERING_ON_FILTERED_SIGNAL (y/n)=n
+# Start a time window for each seismic event available inside the time range.
+SEISMIC_EVENT_TRIGGER (y/n)=n
+SEISMIC_EVENT_DELAY (s)=-0.1
+WINDOW_TYPE=Tukey
+WINDOW_REVERSED=n
+WINDOW_ALPHA=0.1
+SMOOTHING_METHOD=Function
+SMOOTHING_WIDTH_TYPE=Constant
+SMOOTHING_WIDTH=1
+# Describes the way values are summed: on a linear, log or inversed scale
+SMOOTHING_SCALE_TYPE=Log
+SMOOTHING_WINDOW_TYPE=KonnoOhmachi
+SMOOTHING_WINDOW_REVERSED=n
+MINIMUM_FREQUENCY=0.5
+MAXIMUM_FREQUENCY=500
+# Either 'Linear', 'Log' or 'Inversed'
+SCALE_TYPE_FREQUENCY=Log
+# Number of samples is either set to a fixed value ('Count') or through a step between samples ('Step')'
+STEP_TYPE_FREQUENCY=Step
+SAMPLES_NUMBER_FREQUENCY=142
+# STEP=difference between two successive samples for 'linear' scales
+# STEP=ratio between two successive samples for 'log' scales
+# STEP=difference between two successive inversed samples for 'inversed' scales
+STEP_FREQUENCY=1.05
+HIGH_PASS_FREQUENCY=0
+# Possible values for HORIZONTAL_COMPONENTS: Squared, Energy, Azimuth, Geometric
+HORIZONTAL_COMPONENTS=Geometric
+# HORIZONTAL_AZIMUTH is used only when HORIZONTAL_COMPONENTS==Azimuth
+HORIZONTAL_AZIMUTH=0
+# Used only for rotated output
+ROTATION_STEP=10
+# Frequency domain window rejection (Cox et al. (2020, GJI)
+FREQUENCY_WINDOW_REJECTION_MINIMUM_FREQUENCY=0.0001
+FREQUENCY_WINDOW_REJECTION_MAXIMUM_FREQUENCY=5000
+FREQUENCY_WINDOW_REJECTION_STDDEV_FACTOR=2
+FREQUENCY_WINDOW_REJECTION_MAXIMUM_ITERATIONS=50
+#
+# END PARAMETERS
+#
+#
+# BEGIN WINDOWING LOG
+#
+Automatic windowing
+#
+# END WINDOWING LOG
+#
+#
+# BEGIN WINDOW LIST
+#
+# Number= 57
+# Start time 	 End Time 	 Window length
+20231110111100.000000	20231110111200.000000	60
+20231110111157.001000	20231110111257.001000	60
+20231110111254.002000	20231110111354.002000	60
+20231110111504.306000	20231110111604.306000	60
+20231110111619.240000	20231110111719.240000	60
+20231110111855.271000	20231110111955.271000	60
+20231110111952.272000	20231110112052.272000	60
+20231110112049.273000	20231110112149.273000	60
+20231110112146.274000	20231110112246.274000	60
+20231110112243.275000	20231110112343.275000	60
+20231110112552.337000	20231110112652.337000	60
+20231110112736.955000	20231110112836.955000	60
+20231110112955.760000	20231110113055.760000	60
+20231110113052.761000	20231110113152.761000	60
+20231110113149.762000	20231110113249.762000	60
+20231110113246.763000	20231110113346.763000	60
+20231110113343.764000	20231110113443.764000	60
+20231110113440.765000	20231110113540.765000	60
+20231110113537.766000	20231110113637.766000	60
+20231110113759.855000	20231110113859.855000	60
+20231110114029.591000	20231110114129.591000	60
+20231110114413.330000	20231110114513.330000	60
+20231110114712.087000	20231110114812.087000	60
+20231110114942.592000	20231110115042.592000	60
+20231110115039.593000	20231110115139.593000	60
+20231110115430.274000	20231110115530.274000	60
+20231110115544.737000	20231110115644.737000	60
+20231110115656.698000	20231110115756.698000	60
+20231110115838.445000	20231110115938.445000	60
+20231110115935.446000	20231110120035.446000	60
+20231110120032.447000	20231110120132.447000	60
+20231110120132.977000	20231110120232.977000	60
+20231110120229.978000	20231110120329.978000	60
+20231110120326.979000	20231110120426.979000	60
+20231110120423.980000	20231110120523.980000	60
+20231110120710.328000	20231110120810.328000	60
+20231110120923.185000	20231110121023.185000	60
+20231110121020.186000	20231110121120.186000	60
+20231110121220.005000	20231110121320.005000	60
+20231110121857.579000	20231110121957.579000	60
+20231110122138.219000	20231110122238.219000	60
+20231110122408.693000	20231110122508.693000	60
+20231110122530.805000	20231110122630.805000	60
+20231110122908.295000	20231110123008.295000	60
+20231110123005.296000	20231110123105.296000	60
+20231110123156.586000	20231110123256.586000	60
+20231110123311.662000	20231110123411.662000	60
+20231110123523.970000	20231110123623.970000	60
+20231110123826.839000	20231110123926.839000	60
+20231110123923.840000	20231110124023.840000	60
+20231110124226.774000	20231110124326.774000	60
+20231110124353.422000	20231110124453.422000	60
+20231110124526.608000	20231110124626.608000	60
+20231110124706.229000	20231110124806.229000	60
+20231110124926.102000	20231110125026.102000	60
+20231110125023.103000	20231110125123.103000	60
+20231110125120.104000	20231110125220.104000	60
+#
+# END WINDOW LIST
+#
