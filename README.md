@@ -14,9 +14,9 @@ This repository contains multiple useful tools developed for the data from Smart
 
 **approx_positioning.ipynb** : uses to extract satellite data from LogFile and reassignated an approximative location (median point).  
 
-**response.ipynb** : uses to remove automatically the instrument response from minions' data
+**response.ipynb** : uses to remove automatically the instrument response from minions' data.
 
-**interpol.ipynb** : useful notebook for interpolating the H/V amplitude in a node profile
+**interpol.ipynb** : useful notebook for interpolating the H/V amplitude in a node profile.
 
 ## Python codes (PyMod) :
  
