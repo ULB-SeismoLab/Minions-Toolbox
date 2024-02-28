@@ -16,6 +16,8 @@ This repository contains multiple useful tools developed for the data from Smart
 
 **response.ipynb** : uses to remove automatically the instrument response from minions' data
 
+**interpol.ipynb** : useful notebook for interpolating the H/V amplitude in a node profile
+
 ## Python codes (PyMod) :
  
 **LogExtract.py** : Python module to extract data from SmartSolo LogFiles
